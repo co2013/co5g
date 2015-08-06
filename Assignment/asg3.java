@@ -15,7 +15,7 @@ class asg3
 		char[] vov={'a','e','i','o','u'};
 		Scanner sc=new Scanner(System.in);
 		System.out.print("Enter string : ");
-		s=sc.next();
+		s=sc.nextLine();
 		StringBuffer sb=new StringBuffer(s.toLowerCase());
 		for(int i=0;i<sb.length();i++)
 		{
