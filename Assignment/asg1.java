@@ -1,4 +1,4 @@
-//matrix one
+//pascals triangle
 
 
 import java.util.*;
