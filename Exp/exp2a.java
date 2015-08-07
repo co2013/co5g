@@ -1,4 +1,4 @@
-//Name : Sandeep Sahani , Enrollment no : 1300040402
+//java exp question below
 //WAP to do sum of two numbers if both are grater than 10
 
 import java.util.*;

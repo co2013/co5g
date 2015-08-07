@@ -1,4 +1,4 @@
-//Name : Sandeep Sahani , Enrollment no : 1300040402
+//java exp question below
 //Develop a program to print the first 7 terms of fibonacci series 
 
 import java.util.*;

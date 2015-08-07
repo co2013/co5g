@@ -1,4 +1,4 @@
-//Name : Sandeep Sahani , Enrollment no : 1300040402
+//java exp question below
 /*Implement a program to accomplish the following task using String and StringBuffer
  *>To search a word
  *>To search from the last position of string

@@ -1,4 +1,4 @@
-//Name : Sandeep Sahani , Enrollment no : 1300040402
+//java exp question below
 //WAP to display output ( using print() and println())
 
 import java.util.*;
