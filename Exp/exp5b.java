@@ -1,4 +1,4 @@
-//not tested 
+//tested 
 //activity 2nd
 
 import java.util.*;
