@@ -4,7 +4,7 @@
 import java.util.*;
 import java.net.*;
 
-class template
+class exp5b
 {
 	public static void main(String[] args) throws Exception
 	{
@@ -23,7 +23,7 @@ class template
 	         v.add("Lo");
 	   
 	   
-	  for(int i=0;i<5;i++)
+	  for(int i=0;i<v.size();i++)
 	   {
 	     System.out.println("At index " +i+" element is "+v.elementAt(i));
 	   }

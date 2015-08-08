@@ -1,10 +1,10 @@
 //store 5 vector elements from cmd and display
-//not tested 
+//tested
 
 import java.util.*;
 import java.net.*;
 
-class template
+class exp5a
 {
 	public static void main(String[] args) throws Exception
 	{
@@ -16,7 +16,7 @@ class template
 	   {
 	     v.add(args[i]);
 	   }
-	  for(int i=0;i<5;i++)
+	  for(int i=0;i<v.size();i++)
 	   {
 	     System.out.println(v.elementAt(i));
 	   }
