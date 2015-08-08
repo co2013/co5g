@@ -18,7 +18,7 @@ class template
 	   }
 	  for(int i=0;i<5;i++)
 	   {
-	     v.elementAt(i);
+	     System.out.println(v.elementAt(i));
 	   }
 	  
 		System.out.println("Date : "+d);
