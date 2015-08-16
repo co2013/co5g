@@ -1,7 +1,7 @@
 import java.util.*;
 import java.net.*;
 
-class template
+class helloJava
 {
 	public static void main(String[] args) throws Exception
 	{
