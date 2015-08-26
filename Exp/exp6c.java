@@ -10,7 +10,7 @@ class Fruits
 	}
 	void display()
 	{
-		System.out.println("Is it countable : "+ct);
+		System.out.print(ct);
 	}
 }
 		
@@ -27,7 +27,7 @@ class Watermelon extends Fruits
 	void show()
 	{
 		display();
-		System.out.println("Quantity : "+ quantity+"\nPrice : "+price);
+		System.out.print("\t\t"+ quantity+"\t\t"+price+"\n");
 	}
 }
 
@@ -49,9 +49,11 @@ class exp6c
 			pp=sc.nextInt();
 			System.out.print("Enter quantity : ");
 			q=sc.nextInt();
+		
 		}
+		System.out.println("Countable\tQuantity\tPrice");
 		for(int i=0;i<3;p[i].show(),i++);
-		System.out.println("Date : "+d);
+		System.out.println("Date :  "+d);
 		System.out.println("Ip address : "+ip);
 		
 	}
